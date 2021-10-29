@@ -1,0 +1,46 @@
+body{
+    background: #eeeeee;
+}
+#wrapper {
+    width: 720px;
+    background: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+body {
+    font-family: "Segoe UI";
+    }
+h2 {
+    padding-left: 5px;
+    padding-top: 10px;
+}
+h3 {
+    text-align: center;
+    padding-top: 10px;
+    }    
+a {
+color: steelblue;
+}
+a:visited {
+color: darkblue;
+}
+li {
+padding:10px;
+}
+table{
+    margin:auto;
+}
+tr{
+    text-align:center;
+}
+th{
+    padding:10px;
+}
+#introduce {
+font-size:20px;
+padding :10px;
+text-align: center;
+}
